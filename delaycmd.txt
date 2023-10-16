@@ -1,0 +1,4 @@
+Determine how you want to delay your file. There are three main commands you can use to delay a batch file:[1]
+	PAUSE — Causes the batch file to pause until a standard key (e.g., the spacebar) is 	        pressed.
+	TIMEOUT — Prompts the batch file to wait for a specified number of seconds (or a key 		   	  press) before proceeding.
+	PING — Pauses the batch file until the file receives a return ping from a specified 		       computer address. This usually results in only a small delay if you ping a working 		address.
